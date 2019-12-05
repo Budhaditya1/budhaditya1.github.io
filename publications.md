@@ -10,6 +10,7 @@ sidebar_link: true
 <div class="content">
   
   <article class="post-body">
+ <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="small_circle"></span>
 J.M. Bauer, G. Bas, M.N. Durakbasa, P. Kopacek:
 "Development Trends in Automation and Metrology";
 Elsevier ScienceDirect IFAC-PapersOnLine, Volume 48 (2015), Issue 24; S. 168 - 172.
