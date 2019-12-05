@@ -15,8 +15,9 @@ sidebar_link: true
 J.M. Bauer, G. Bas, M.N. Durakbasa, P. Kopacek:
 "Development Trends in Automation and Metrology";
 Elsevier ScienceDirect IFAC-PapersOnLine, Volume 48 (2015), Issue 24; S. 168 - 172.
+  </div>
 </article>
- </div>
+ 
 
 <article class="post-body">
   <div style="display: inline"><div style="display: inline" data-badge-type="donut" data-doi="0.1001/jama.2016.9797" data-hide-no-mentions="true" class="altmetric-embed"></div>G. Bas, M.N. Durakbasa, J.M. Bauer, G. Poszvek:
