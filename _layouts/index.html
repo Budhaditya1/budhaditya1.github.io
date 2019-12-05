@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-
+<style>
+ div.columns       { width: 900px; }
+div.columns div   { width: 300px; height: 100px; float: left; }
+div.grey          { background-color: #cccccc; }
+div.red           { background-color: #e14e32; }
+div.clear         { clear: both; }
+</style>
 <div class="content">
  <h2> Intro</h2>
  <p>Proven excellence in the development of strong rapport with students, colleagues and administrators. Experienced lecturer at university and conferences with a knack for communicating audiences of all levels. Committed researcher with strong mathematical skills to develop and implement projects.
@@ -11,7 +17,12 @@ layout: default
  
  
  <font size="3">
- 
+ <div class="columns">
+    <div class="red" >Column 1</div>
+    <div class="grey">Column 2</div>
+    <div class="red" >Column 3</div>
+</div>
+<div class="clear"></div>
  <article class="post-body">
   <div style="display: inline"><div style="display: inline" data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>G. Bas, M.N. Durakbasa, J.M. Bauer, G. Poszvek:
 "Characterization and Utilization of the Intelligent Decision Making Methodology to Improve Quality and Precision in the Machining Process";
