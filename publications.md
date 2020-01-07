@@ -30,11 +30,11 @@ sidebar_link: true
 }
 
 .left, .right {
-  width: 25%;
+  width: 15%;
 }
 
 .middle {
-  width: 50%;
+  width: 70%;
 }
 
 /* Clear floats after the columns */
