@@ -26,7 +26,7 @@ sidebar_link: true
 .column {
   float: left;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: auto; /* Should be removed. Only for demonstration */
 }
 
 .left, .right {
