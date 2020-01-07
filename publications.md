@@ -14,14 +14,12 @@ sidebar_link: true
   <article class="post-body">
  <div style="display: inline">
  <div style="display: inline" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ifacol.2015.12.077" data-hide-no-mentions="true" class="altmetric-embed"></div>
- | jnjnnjn |   |   |   |   |
- |---------|---|---|---|---|
- |         |   |   |   |   |
- |         |   |   |   |   |
- |         |   |   |   |   |
-
-
-
+---
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+---
 J.M. Bauer, G. Bas, M.N. Durakbasa, P. Kopacek:
 "Development Trends in Automation and Metrology";
 Elsevier ScienceDirect IFAC-PapersOnLine, Volume 48 (2015), Issue 24; S. 168 - 172.
