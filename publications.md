@@ -14,7 +14,6 @@ sidebar_link: true
   <article class="post-body">
  <div style="display: inline">
  <div style="display: inline" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ifacol.2015.12.077" data-hide-no-mentions="true" class="altmetric-embed"></div>
----
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -48,20 +47,19 @@ sidebar_link: true
 </head>
 <body>
 
-<h2>Three Unequal Columns</h2>
-
 <div class="row">
-  <div class="column left" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+  <div class="column left" style="background-color:#fbfbfb;">
+    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
   </div>
-  <div class="column middle" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+  <div class="column middle" style="background-color:#fbfbfb;">
+
+    <p>J.M. Bauer, G. Bas, M.N. Durakbasa, P. Kopacek:
+    "Development Trends in Automation and Metrology";
+    Elsevier ScienceDirect IFAC-PapersOnLine, Volume 48 (2015), Issue 24; S. 168 - 172.</p>
   </div>
-  <div class="column right" style="background-color:#ccc;">
-    <h2>Column 3</h2>
-    <p>Some text..</p>
+  <div class="column right" style="background-color:#fbfbfb;">
+
+    <p>2015</p>
   </div>
 </div>
 
@@ -69,7 +67,6 @@ sidebar_link: true
 </html>
 
 
----
 J.M. Bauer, G. Bas, M.N. Durakbasa, P. Kopacek:
 "Development Trends in Automation and Metrology";
 Elsevier ScienceDirect IFAC-PapersOnLine, Volume 48 (2015), Issue 24; S. 168 - 172.
