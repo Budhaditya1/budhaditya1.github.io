@@ -9,7 +9,12 @@ sidebar_link: true
  <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
  <font size="3">
 <div class="content">
-  
+
+| jnjnnjn |   |   |   |   |
+|---------|---|---|---|---|
+|         |   |   |   |   |
+|         |   |   |   |   |
+|         |   |   |   |   |
   <article class="post-body">
  <div style="display: inline">
  <div style="display: inline" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ifacol.2015.12.077" data-hide-no-mentions="true" class="altmetric-embed"></div>
@@ -29,7 +34,7 @@ Elsevier ScienceDirect IFAC-PapersOnLine, Volume 48 (2015), Issue 24; S. 168 - 1
   <span class="__dimensions_badge_embed__" data-doi="10.4028/www.scientific.net/KEM.686.92" data-style="small_rectangle"></span>
   </div>
 </article>
-  
+
   <article class="post-body">
  J.M. Bauer, M.N. Durakbasa, G. Bas:
 "Multi Functional Intelligent Measurement Robot, As a Part of a Global Quality Management System for Collaboration Between Small, Medium and Large Scale Enterprises";
@@ -73,6 +78,6 @@ TM - Technisches Messen, 82 (2015), Heft 1; S. 7 - 15.
  M.N. Durakbasa, G. Bas, J.M. Bauer, G. Poszvek:
 "Intelligent Design and Advanced Metrology as Strategic Approaches to Efficiency and Quality Improvement in Smart Manufacturing";
 International Journal of Advanced Quality, Vol.41 (2013), 1; S. 17 - 22.
-</article> 
-  
+</article>
+
   </div>
