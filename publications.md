@@ -16,35 +16,59 @@ sidebar_link: true
  <div style="display: inline" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ifacol.2015.12.077" data-hide-no-mentions="true" class="altmetric-embed"></div>
 ---
 <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left, .right {
+  width: 25%;
+}
+
+.middle {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
 <body>
 
-    <table style="width:100%">
-        <tr>
-            <th>Firstname</th>
-            <th>Lastname</th>
-            <th>Age</th>
-        </tr>
-        <tr>
-            <td>Priya</td>
-            <td>Sharma</td>
-            <td>24</td>
-        </tr>
-        <tr>
-            <td>Arun</td>
-            <td>Singh</td>
-            <td>32</td>
-        </tr>
-        <tr>
-            <td>Sam</td>
-            <td>Watson</td>
-            <td>41</td>
-        </tr>
-    </table>
+<h2>Three Unequal Columns</h2>
+
+<div class="row">
+  <div class="column left" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column middle" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column right" style="background-color:#ccc;">
+    <h2>Column 3</h2>
+    <p>Some text..</p>
+  </div>
+</div>
 
 </body>
+</html>
 
-</html> 
+
 ---
 J.M. Bauer, G. Bas, M.N. Durakbasa, P. Kopacek:
 "Development Trends in Automation and Metrology";
