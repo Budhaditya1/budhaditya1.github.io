@@ -26,11 +26,11 @@ sidebar_link: true
 .column {
   float: left;
   padding: 10px;
-  height: auto; /* Should be removed. Only for demonstration */
+  /*height: auto; /* Should be removed. Only for demonstration */*/
 }
 
 .left, .right {
-  width:10% ;
+  width:15% ;
 }
 
 .middle {
