@@ -24,7 +24,7 @@ sidebar_link: true
 
 /* Create three unequal columns that floats next to each other */
 .column {
-  float: left;
+  float: center;
   padding: 10px;
 height: auto; /* Should be removed. Only for demonstration */
 }
