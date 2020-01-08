@@ -920,25 +920,6 @@ Hauptvortrag: Total Quality Management-Advanced and Intelligent Approaches (TQM)
   <div class="column middle" style="background-color:#fbfbfb;">
 
     <p>
-    M.N. Durakbasa, G. Bas, J.M. Bauer, G. Poszvek:
-"Intelligent Design and Advanced Metrology as Strategic Approaches to Efficiency and Quality Improvement in Smart Manufacturing";
-Hauptvortrag: Total Quality Management-Advanced and Intelligent Approaches (TQM) 2013, Belgrad, Serbien (eingeladen); 03.06.2013 - 07.06.2013; in: "The 7th International Working Conference "Total Quality Management - Advanced and Intelligent Approaches"", (2013), ISBN: 978-86-7083-791-1; Paper-Nr. 17-22, 6 S.
-    </p>
-  </div>
-  <div class="column right" style="background-color:#fbfbfb;">
-
-    <p>2013</p>
-  </div>
-</div>
----
----
-<div class="row">
-  <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
-  </div>
-  <div class="column middle" style="background-color:#fbfbfb;">
-
-    <p>
     M.N. Durakbasa, G. Bas, L. Kräuter, G. Poszvek:
 "The Assessment of Industrial Manufacturing Systems Towards Advanced Operations by Means of Integrated Modeling Approach";
 Vortrag: International Business Information Management Association Conference (IBIMA), Wien, Österreich; 27.06.2013 - 28.06.2013; in: "Vision 2020: Innovation, Development Sustainability, and Economic Growth, Proceedings of the 21st International Business Information Management Association Conference (IBIMA", (2013), ISBN: 978-0-9860419-0-7; Paper-Nr. 1418-1426, 9 S.
