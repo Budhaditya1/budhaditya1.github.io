@@ -30,7 +30,7 @@ sidebar_link: true
 }
 
 .left, .right {
-  min-width:10px ;
+  width:10px ;
 }
 
 .middle {
