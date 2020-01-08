@@ -53,13 +53,32 @@ sidebar_link: true
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
-    <p>J.M. Bauer, G. Bas, M.N. Durakbasa, P. Kopacek:
-    "Development Trends in Automation and Metrology";
-    Elsevier ScienceDirect IFAC-PapersOnLine, Volume 48 (2015), Issue 24; S. 168 - 172.</p>
+    <p>F. Folkvord, L. Peschke, G. Bas, S. Vitiello, N. Spunda:
+"Peer Learning Methodology for Sustainable Energy Usage";
+in: "Proceedings of the International Symposium for Production Research 2019, Lecture Notes in Mechanical Engineering book series (LNME)", M.N. Durakbasa, G. Gencyilmaz (Hrg.); Springer Nature Switzerland AG, Cham, Switzerland, 2019, ISBN: 978-3-030-31343-2, S. 62 - 76.</p>
   </div>
   <div class="column right" style="background-color:#fbfbfb;">
 
-    <p>2015</p>
+    <p>2019</p>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column left" style="background-color:#fbfbfb;">
+    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+  </div>
+  <div class="column middle" style="background-color:#fbfbfb;">
+
+    <p>
+ö. Sen, M.N. Durakbasa, G. Bas, G. Sen, O. Akcatepe:
+"An Implementation of Cloud Based Simulation in Production";
+in: "Proceedings of the International Symposium for Production Research 2019, Lecture Notes in Mechanical Engineering book series (LNME)", 1; M.N. Durakbasa, G. Gencyilmaz (Hrg.); Springer Nature Switzerland AG, Cham, Switzerland, 2019, ISBN: 978-3-030-31343-2, S. 519 - 524.
+    </p>
+  </div>
+  <div class="column right" style="background-color:#fbfbfb;">
+
+    <p>2019</p>
   </div>
 </div>
 
