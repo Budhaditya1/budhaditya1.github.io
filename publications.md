@@ -30,7 +30,7 @@ sidebar_link: true
 }
 
 .left, .right {
-  width:10px ;
+  width:10% ;
 }
 
 .middle {
