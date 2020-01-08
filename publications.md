@@ -8,7 +8,7 @@ sidebar_link: true
 
  <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
  <font size="3">
-<div class="content">
+
 
 
   <article class="post-body">
