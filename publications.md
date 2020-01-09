@@ -49,7 +49,9 @@ height: auto; /* Should be removed. Only for demonstration */
 
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p>
+    <div data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
