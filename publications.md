@@ -50,6 +50,7 @@ height: auto; /* Should be removed. Only for demonstration */
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
     <p>
+    <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div>
     <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-030-31343-2_6"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
     </p>
   </div>
