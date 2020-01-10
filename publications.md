@@ -86,7 +86,9 @@ in: "Proceedings of the International Symposium for Production Research 2019, Le
     <p>2019</p>
   </div>
 </div>
----
+
+<strong>2018</strong>
+
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
     <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-319-92267-6_38" class="altmetric-embed"></div></p>
@@ -206,6 +208,7 @@ in: "Proceedings of the International Symposium for Production Research 2018", S
   </div>
 </div>
 ---
+<strong>2017</strong>
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
@@ -227,6 +230,7 @@ in: "DAAAM International Scientific Book 2017", 1; B. Katalinic (Hrg.); DAAAM In
   </div>
 </div>
 ---
+<strong>2016</strong>
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
@@ -306,6 +310,7 @@ Hauptvortrag: 2016 INTERNATIONAL CONFERENCE ON PRODUCTION RESEARCH REGIONAL CONF
   </div>
 </div>
 ---
+<strong>2015</strong>
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
@@ -545,6 +550,7 @@ Vortrag: IMEKO XXI World Congress, Prague; 30.08.2015 - 04.09.2015; in: "XXI IME
   </div>
 </div>
 ---
+<strong>2014</strong>
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
@@ -743,6 +749,7 @@ Vortrag: 11th International Conference on Remote Engineering and Virtual Instrum
   </div>
 </div>
 ---
+<strong>2013</strong>
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
@@ -1001,6 +1008,7 @@ Vortrag: International Business Information Management Association Conference (I
   </div>
 </div>
 ---
+<strong>2012</strong>
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
@@ -1420,6 +1428,7 @@ Hauptvortrag: QIEM 2nd International Conference on Quality and Innovation in Eng
   </div>
 </div>
 ---
+<strong>2011</strong>
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
@@ -1621,6 +1630,7 @@ Vortrag: 8th International Conference on Measurement, Smolenice, Slovakia; 27.04
   </div>
 </div>
 ---
+<strong>2010</strong>
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
