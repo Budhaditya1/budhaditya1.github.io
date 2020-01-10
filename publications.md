@@ -51,14 +51,15 @@ height: auto; /* Should be removed. Only for demonstration */
   <div class="column left" style="background-color:#fbfbfb;">
     <p>
     <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div>
-    <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-030-31343-2_6"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
     </p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
     <p>F. Folkvord, L. Peschke, G. Bas, S. Vitiello, N. Spunda:
 "Peer Learning Methodology for Sustainable Energy Usage";
-in: "Proceedings of the International Symposium for Production Research 2019, Lecture Notes in Mechanical Engineering book series (LNME)", M.N. Durakbasa, G. Gencyilmaz (Hrg.); Springer Nature Switzerland AG, Cham, Switzerland, 2019, ISBN: 978-3-030-31343-2, S. 62 - 76.</p>
+in: "Proceedings of the International Symposium for Production Research 2019, Lecture Notes in Mechanical Engineering book series (LNME)", M.N. Durakbasa, G. Gencyilmaz (Hrg.); Springer Nature Switzerland AG, Cham, Switzerland, 2019, ISBN: 978-3-030-31343-2, S. 62 - 76.
+<br><span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="small_rectangle"></span>
+</p>
   </div>
   <div class="column right" style="background-color:#fbfbfb;">
 
