@@ -45,12 +45,11 @@ sidebar_link: true
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
 
 <div class="row">
   <div class="column" style="background-color:#fbfbfb;">
     <h2></h2>
-    <p><img src="https://www.giss.nasa.gov/research/news/20100121/418333main_land-ocean-index226.jpg"></p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Free_PSA_bar_graph.svg"></p>
   </div>
   <div class="column" style="background-color:#fbfbfb;">
     <h2>Research Paper </h2>
