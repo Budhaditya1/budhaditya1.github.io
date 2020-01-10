@@ -70,7 +70,7 @@ in: "Proceedings of the International Symposium for Production Research 2019, Le
 
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -88,7 +88,7 @@ in: "Proceedings of the International Symposium for Production Research 2019, Le
 
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -106,7 +106,7 @@ in: "Proceedings of the International Symposium for Production Research 2019, Le
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -125,7 +125,7 @@ in: "Proceedings of the International Symposium for Production Research 2019, Le
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -144,7 +144,7 @@ Elsevier ScienceDirect IFAC-PapersOnLine, 1 (2018), 51-30; S. 54 - 59.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -163,7 +163,7 @@ in: "Proceedings of the International Symposium for Production Research 2018", S
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -182,7 +182,7 @@ in: "Proceedings of the International Symposium for Production Research 2018", S
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -201,7 +201,7 @@ in: "Proceedings of 3rd International COnference on the Industry 4.0 Model for A
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -220,7 +220,7 @@ in: "Proceedings of the International Symposium for Production Research 2018", S
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -240,7 +240,7 @@ in: "DAAAM International Scientific Book 2017", 1; B. Katalinic (Hrg.); DAAAM In
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -259,7 +259,7 @@ Key Engineering Materials, Precision Machining VIII (2016), Vol. 686; S. 87 - 92
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -277,7 +277,7 @@ Key Engineering Materials, Precision Machining VIII (2016), Vol. 686; S. 87 - 92
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -296,7 +296,7 @@ in: "Development In Machining Technology", Vol. 6; Cracow University of Technolo
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -315,7 +315,7 @@ Hauptvortrag: 2016 INTERNATIONAL CONFERENCE ON PRODUCTION RESEARCH REGIONAL CONF
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -333,7 +333,7 @@ Hauptvortrag: 2016 INTERNATIONAL CONFERENCE ON PRODUCTION RESEARCH REGIONAL CONF
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -352,7 +352,7 @@ Elsevier ScienceDirect IFAC-PapersOnLine, Volume 48 (2015), Issue 24; S. 168 - 1
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -371,7 +371,7 @@ Elsevier ScienceDirect IFAC-PapersOnLine, Volume 48 (2015), Issue 24; S. 178 - 1
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -390,7 +390,7 @@ Key Engineering Materials, 1 (2015), Vol. 637; S. 27 - 35.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -409,7 +409,7 @@ TM - Technisches Messen, 82 (2015), Heft 1; S. 7 - 15.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -428,7 +428,7 @@ International Journal of Online Engineering (iJOE), 1 (2015), Vol 11 No 3; S. 14
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -447,7 +447,7 @@ Vortrag: XXIX. microCAD International Multidisciplinary Scientific Conference, U
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -466,7 +466,7 @@ Vortrag: 2015 12th International Conference on Remote Engineering and Virtual In
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -485,7 +485,7 @@ Hauptvortrag: The Third International Conference "MECHANICAL ENGINEERING IN XXI 
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -503,7 +503,7 @@ Hauptvortrag: The Third International Conference "MECHANICAL ENGINEERING IN XXI 
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -523,7 +523,7 @@ Vortrag: 8th International Conference and Exhibition on Design and Production of
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -542,7 +542,7 @@ Vortrag: IMEKO XXI World Congress, Prague; 30.08.2015 - 04.09.2015; in: "XXI IME
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -561,7 +561,7 @@ International Journal of Online Engineering (iJOE), Vol.10, No.4 (2014), ISSN: 1
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -579,7 +579,7 @@ International Journal of Online Engineering (iJOE), Vol.10, No.4 (2014), ISSN: 1
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -598,7 +598,7 @@ Key Engineering Materials, Trans Tech Publications, Switzerland (2014), Vol.581;
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -616,7 +616,7 @@ Key Engineering Materials, Trans Tech Publications, Switzerland (2014), Vol.581;
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -635,7 +635,7 @@ in: "Scientific Research Reports "Development in Machining Technology"", herausg
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -654,7 +654,7 @@ in: "11th IMEKO TC14 Symposium on Laser Metrology for Precision Measurement and 
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -673,7 +673,7 @@ in: "The Publications of the MultiScience - XXVIII. microCAD International Multi
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -692,7 +692,7 @@ Hauptvortrag: Proceedings of ICPR-AEM and QIEM 2014 Conference, Cluj-Napoca, Rum
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -711,7 +711,7 @@ Vortrag: 11th International Conference on Remote Engineering and Virtual Instrum
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -730,7 +730,7 @@ Vortrag: 11th International Conference on Remote Engineering and Virtual Instrum
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -749,7 +749,7 @@ International Journal of Advanced Quality, Vol.41 (2013), 1; S. 17 - 22.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -768,7 +768,7 @@ in: "Scientific Research Reports "Development in Machining Technology"", W. Zeba
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -787,7 +787,7 @@ Vortrag: 9th International Conference on Measurement, Smolenice, Slowakei; 27.05
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -806,7 +806,7 @@ Vortrag: ISMQC - International Symposium on Measurement and Quality Control, Kra
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -825,7 +825,7 @@ Vortrag: International Business Information Management Association Conference (I
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -844,7 +844,7 @@ Vortrag: ISMQC - International Symposium on Measurement and Quality Control, Kra
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -863,7 +863,7 @@ Vortrag: XXVII. microCAD International Scientific Conference, Miskolc, Ungarn; 2
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -881,7 +881,7 @@ Vortrag: XXVII. microCAD International Scientific Conference, Miskolc, Ungarn; 2
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -900,7 +900,7 @@ Hauptvortrag: ISMQC - International Symposium on Measurement and Quality Control
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -919,7 +919,7 @@ Hauptvortrag: Total Quality Management-Advanced and Intelligent Approaches (TQM)
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -938,7 +938,7 @@ Vortrag: International Business Information Management Association Conference (I
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -957,7 +957,7 @@ Vortrag: International Business Information Management Association Conference (I
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -975,7 +975,7 @@ Vortrag: International Business Information Management Association Conference (I
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -994,7 +994,7 @@ Quality-Access to Success, Vol.13, S5, November 2012 (2012), ISSN: 1582-2559; S.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1013,7 +1013,7 @@ Quality-Access to Success, Vol. 13, S5, November 2012 (2012), S. 79 - 86.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1032,7 +1032,7 @@ Quality-Access to Success, Vol.13, S5, November 2012 (2012), S. 131 - 136.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1051,7 +1051,7 @@ JAMRIS - Journal of Automation, Mobile Robotics & Intelligent Systems, Volume 6 
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1070,7 +1070,7 @@ International Journal of Nanomanufacturing, Vol.8 (2012), 5/6; S. 493 - 507.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1089,7 +1089,7 @@ International Journal Advanced Quality, Vol.40/2/Belgrade (2012), UDC 658.5; S. 
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1108,7 +1108,7 @@ Quality-Access to Success, Vol.13, S5, November 2012 (2012), S. 17 - 22.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1127,7 +1127,7 @@ JAMRIS - Journal of Automation, Mobile Robotics & Intelligent Systems, Volume 6 
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1146,7 +1146,7 @@ MSD Journal, Volume 4 (2012), 1; S. 5 - 11.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1165,7 +1165,7 @@ in: "Development of Surface Metrology, Pawel Pawlus (ed.) et al.", herausgegeben
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1184,7 +1184,7 @@ Vortrag: IMEKO XX World Congress International Measurement Confederation, Busan,
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1203,7 +1203,7 @@ Vortrag: QIEM 2nd International Conference on Quality and Innovation in Engineer
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1221,7 +1221,7 @@ Vortrag: QIEM 2nd International Conference on Quality and Innovation in Engineer
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1240,7 +1240,7 @@ Hauptvortrag: Manufacturing Engineering and Management, Presov, Slovak Republic 
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1259,7 +1259,7 @@ Hauptvortrag: 10th International Scientific Conference "Coordinate Measuring Tec
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1278,7 +1278,7 @@ Vortrag: XXVI. microCAD International Scientific Conference, Miskolc, Hungary; 2
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1297,7 +1297,7 @@ Hauptvortrag: International Convention On Quality 2012 With The Motto Quality Fo
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1316,7 +1316,7 @@ Vortrag: IMEKO XX World Congress International Measurement Confederation, Busan,
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1335,7 +1335,7 @@ Vortrag: QIEM 2nd International Conference on Quality and Innovation in Engineer
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1354,7 +1354,7 @@ Vortrag: QIEM 2nd International Conference on Quality and Innovation in Engineer
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1373,7 +1373,7 @@ Hauptvortrag: QIEM 2nd International Conference on Quality and Innovation in Eng
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1393,7 +1393,7 @@ Journal of the Institute of Management Services, 1 (2011), Volume 55 Number 2; S
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1413,7 +1413,7 @@ Quality - access to success, Anul 12 (2011), 4; S. 21 - 25.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1431,7 +1431,7 @@ Quality - access to success, Anul 12 (2011), 4; S. 21 - 25.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1450,7 +1450,7 @@ Vortrag: XXV, microCAD International Scientific Conference, Miskolc, Ungarn; 31.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1469,7 +1469,7 @@ Vortrag: XXV, microCAD International Scientific Conference, Miskolc, Ungarn; 31.
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1488,7 +1488,7 @@ Vortrag: Metrology in Production Engineering, Warschau - Pultusk, PL; 12.09.2011
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1507,7 +1507,7 @@ Vortrag: Metrology in Production Engineering, Warschau - Pultusk, PL; 12.09.2011
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1527,7 +1527,7 @@ Vortrag: 14 Joint International IMEKO TC1+TC7 TC13 th + Symposium, Jena, Germany
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1546,7 +1546,7 @@ Vortrag: 14 Joint International IMEKO TC1+TC7 TC13 th + Symposium, Jena, Germany
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
@@ -1566,7 +1566,7 @@ Vortrag: 8th International Conference on Measurement, Smolenice, Slovakia; 27.04
 ---
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
-    <p><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ifacol.2015.12.077" data-style="small_rectangle"></span></p>
+    <p><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-31343-2_6" class="altmetric-embed"></div></p>
   </div>
   <div class="column middle" style="background-color:#fbfbfb;">
 
