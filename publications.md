@@ -46,7 +46,7 @@ height: auto; /* Should be removed. Only for demonstration */
 </style>
 </head>
 <body>
-
+<strong>2019</strong>
 <div class="row">
   <div class="column left" style="background-color:#fbfbfb;">
     <p>
