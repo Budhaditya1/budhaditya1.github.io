@@ -25,7 +25,7 @@ Here's a simpler analogy from the business world: No successful business would e
 
 Yet in the conservation world we often conduct business without checking the books. We make the assumption that if we plant trees, or get volunteers out in nature or restore a stream, those activities will immediately lead to good things. Even worse, we invest in fundraising and financial systems, sometimes costing $10's to 100's of thousands, but often skimp on developing scientifically sound monitoring, reporting and communications systems.
 
-![](/uploads/monitoring-blog-photo1.jpg){: width="1002" height="699"}
+![](/uploads/monitoring-blog-photo1.jpg){: width="790" height="500"}
 
 Conservation education is a classic example for making assumptions about outcomes. For years, conservation educators assumed that bringing children, adults and other volunteers to help plant trees, remove invasive weeds, or add gravel to a stream was a good thing. Of course they had the actual projects to show for the work and the volunteers or students that helped on the projects enjoyed the work. But no one really asked key questions around the impact of environmental education on the participants. Did outdoor education lead to a cadre of people supporting conservation? Did the kids later become environmental professionals and/or supportive of environmental causes?&nbsp;
 
@@ -51,7 +51,7 @@ We collected quantitative and qualitative data on land use, crops yields, projec
 
 At both sites, participation in sustainable agriculture programs generally led to more environmental consciousness, and participating farmers burned the forest less. So the programs helped to reduce the use of fire and therefore reduced the incidence of deforestation. When land tenure was more secure, however, farmers also tended to clear less. So the general assumption of Integrated Conservation and Development Projects in this case was true and false and depended on multiple factors. More details on the study can be found in the publication&nbsp;[Maximum Yield?: Sustainable Agriculture as a Tool for Conservation](https://www.cifor.org/library/1028/){: target="_blank"}[.](http://www.fosonline.org/wordpress/wp-content/uploads/2010/10/Maximum-Yield.pdf){: target="_top"}
 
-![](/uploads/photo3-attribute-to-luc-viatour.jpg){: width="1440" height="1080"}
+![](/uploads/photo3-attribute-to-luc-viatour.jpg){: width="800" height="600"}
 
 **What to do**
 

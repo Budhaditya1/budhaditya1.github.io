@@ -1,6 +1,6 @@
 ---
 title: Good Fire vs. Bad Fire
-date: 2020-04-13 00:00:00
+date: 2020-04-15 00:00:00
 description: >-
   Vance Russell and Eric Holst explain why it is necessary to distinguish
   between good fire and bad fire. The climate crisis continues to unfold with
@@ -29,7 +29,7 @@ When their consequences are looked at objectively, wildfires can be broadly clas
 
 The sustainable forests of the Sierra Nevada are typically biodiverse and heterogeneous, resilient to wildfire, climate change and disease ([North, et al., 2009](https://www.fs.fed.us/psw/publications/documents/psw_gtr220/){: target="_top"}). The rural communities based here are vibrant, demographically stable and economically self-sufficient, with revenue streams that go beyond tourism and logging as shown in the Venn diagram below.
 
-![](/uploads/graphic1.jpg){: width="811" height="791"}
+![](/uploads/graphic1.jpg){: width="611" height="600"}
 
 The Camp and Mendocino Complex fires of 2018, which both consumed extensive areas of Sierra Nevada forest, neatly illustrate the varying impact that wildfire can have on people, property and biodiversity.
 
