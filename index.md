@@ -32,7 +32,7 @@ My experience as a varsity athlete and as a dual major student at Lehigh and Hoc
 My curiosity for electricity led me to explore electrical engineering fundamentals further and create my own electronic devices. After fixing and designing many electrical apparatus, I am ready to proceed into the professional world.</h3> 
   </div>
   <div class="column">
-    <img src="/assets/headshot.jpg" style="width:66%">
+    <img src="/assets/headshot.jpg" style="width:45%">
   </div>
 </div>
 
