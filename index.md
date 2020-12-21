@@ -1,5 +1,6 @@
 
-# Website under construction 
+# Harry’s Engineering Portfolio
+ 
 
 <html>
 <head>
@@ -25,10 +26,13 @@
 <div class="row">
     <div class="column1">
     <h1>About Me</h1> 
-    <h3>I am a third year Mechanical Engineering student minoring in Aerospace Engineering and Business with a passion for innovation. I have had the incredible experiences of being involved with multiple engineering projects which have given me the ability to perform holistically as an engineer. <br><br> Metal additive manufacturing research, a Formula One style engineering competition team, internships, and volunteer engineering work have provided me with the opportunity to build my skill set and apply knowledge learned in the classroom to real world problems. Experience working in these organizations have advanced my sense of intuition and holistic mindset required to solve new complex engineering problems.</h3> 
+    <h3>I am a third year Electrical Engineering and German student-athlete at Lehigh University.
+My experience as a varsity athlete and as a dual major student at Lehigh and Hochschule Pforzheim in Germany have instilled in me a better understanding of both crucial engineering concepts and team engagement strategies.
+<br><br>
+My curiosity for electricity led me to explore electrical engineering fundamentals further and create my own electronic devices. After fixing and designing many electrical apparatus, I am ready to proceed into the professional world.</h3> 
   </div>
   <div class="column">
-    <img src="https://jfc221.github.io/website/assets/logo.png" style="width:66%">
+    <img src="https://jfc221.github.io/website/assets/headshot.jpg" style="width:66%">
   </div>
 </div>
 
