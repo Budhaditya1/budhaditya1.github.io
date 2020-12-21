@@ -32,7 +32,7 @@ My experience as a varsity athlete and as a dual major student at Lehigh and Hoc
 My curiosity for electricity led me to explore electrical engineering fundamentals further and create my own electronic devices. After fixing and designing many electrical apparatus, I am ready to proceed into the professional world.</h3> 
   </div>
   <div class="column">
-    <img src="/assets/headshot.jpg" style="width:66%">
+    <img src="/assets/headshot.jpg" style="width:45%">
   </div>
 </div>
 
@@ -301,7 +301,7 @@ img {vertical-align: middle;}
   <div class="column">
     <div class="container">
       <a href="./resume.pdf">
-      <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Resumethumb.png" class="image" style="width:100%">
+      <img src="/assets/Resumethumb.png" class="image" style="width:100%">
         </a>
       <div class="middle">
         <a href="./resume.pdf">
