@@ -32,7 +32,7 @@ My experience as a varsity athlete and as a dual major student at Lehigh and Hoc
 My curiosity for electricity led me to explore electrical engineering fundamentals further and create my own electronic devices. After fixing and designing many electrical apparatus, I am ready to proceed into the professional world.</h3> 
   </div>
   <div class="column">
-    <img src="/assets/headshot.jpg" style="width:45%">
+    <img src="/assets/headshot.png" style="width:45%">
   </div>
 </div>
 
@@ -168,7 +168,7 @@ img {vertical-align: middle;}
 <!-- ONE-->
           <div class="container">
           <a href="./portfolio.pdf">
-              <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide1.png" style="width:100%">
+              <img class="mySlides w3-animate-fading image" src="/assets/Slide1.png" style="width:100%">
           </a>
             <div class="middle">
               <a href="./portfolio.pdf">
@@ -179,7 +179,7 @@ img {vertical-align: middle;}
 <!-- TWO-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide2.png" style="width:100%">
+            <img class="mySlides w3-animate-fading image" src="/assets/Slide2.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -190,7 +190,7 @@ img {vertical-align: middle;}
 <!-- THREE-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide3.png" style="width:100%">
+            <img class="mySlides w3-animate-fading image" src="/assets/Slide3.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -201,7 +201,7 @@ img {vertical-align: middle;}
 <!-- FOUR-->
         <div class="container">
         <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide4.png" style="width:100%">
+            <img class="mySlides w3-animate-fading image" src="/assets/Slide4.png" style="width:100%">
         </a>
           <div class="middle">
             <a href="./portfolio.pdf">
@@ -210,7 +210,7 @@ img {vertical-align: middle;}
         </div>
       </div>
 <!-- FIVE-->
-        <div class="container">
+        <!-- <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png" style="width:100%">
         </a>
@@ -219,9 +219,9 @@ img {vertical-align: middle;}
              <div class="text">View Portfolio</div>
                </a>
         </div>
-      </div>
+      </div> -->
 <!-- SIX-->
-        <div class="container">
+        <!-- <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png" style="width:100%">
         </a>
@@ -230,9 +230,9 @@ img {vertical-align: middle;}
              <div class="text">View Portfolio</div>
               </a>
         </div>
-      </div>
+      </div> -->
 <!-- SEVEN-->
-        <div class="container">
+        <!-- <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png" style="width:100%">
         </a>
@@ -241,9 +241,9 @@ img {vertical-align: middle;}
              <div class="text">View Portfolio</div>
              </a>
         </div>
-      </div>
+      </div> -->
 <!-- EIGHT-->
-        <div class="container">
+        <!-- <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png" style="width:100%">
         </a>
@@ -252,9 +252,9 @@ img {vertical-align: middle;}
              <div class="text">View Portfolio</div>
             </a>
         </div>
-      </div>
+      </div> -->
 <!-- NINE-->
-        <div class="container">
+        <!-- <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png" style="width:100%">
         </a>
@@ -263,9 +263,9 @@ img {vertical-align: middle;}
              <div class="text">View Portfolio</div>
             </a>
         </div>
-      </div>
+      </div> -->
 <!-- TEN-->
-        <div class="container">
+        <!-- <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png" style="width:100%">
         </a>
@@ -274,9 +274,9 @@ img {vertical-align: middle;}
              <div class="text">View Portfolio</div>
             </a>
         </div>
-      </div>
+      </div> -->
 <!-- ELEVEN-->
-        <div class="container">
+        <!-- <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png" style="width:100%">
         </a>
@@ -285,9 +285,9 @@ img {vertical-align: middle;}
              <div class="text">View Portfolio</div>
             </a>
         </div>
-      </div>
+      </div> -->
 <!-- TWELVE-->
-        <div class="container">
+        <!-- <div class="container">
         <a href="./portfolio.pdf">
             <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png" style="width:100%">
         </a>
@@ -296,7 +296,7 @@ img {vertical-align: middle;}
              <div class="text">View Portfolio</div>
             </a>
       </div>
-    </div>
+    </div> -->
    </div>
   <div class="column">
     <div class="container">
@@ -472,12 +472,12 @@ function carousel() {
 
 # Contact Information
 
-#### [LinkedIn](http://linkedin.com/in/john-cummings1)
+#### [LinkedIn](https://linkedin.com/in/harrison-ernst-61746119b)
 
-#### Email: [johncummings115@gmail.com](mailto:johncummings115@gmail.com)
+#### Email: [harry@ernst.site](mailto:harry@ernst.site)
 
-#### Phone: [(703) 408-9003](tel:703-408-9003)
+#### Phone: [(516) – 434 – 1748 ](tel:(516) – 434 – 1748 )
 
-#### Home Address: 9 Country Side Drive, Rockaway, NJ 07866
+#### Home Address: 210 Meadbrook Rd, Garden City, NY 11530
 
-#### School Address: 4 Farrington Square Box 3264, Bethlehem, PA 18015
+#### School Address: 4 Farrington Square Box 5748, Bethlehem, PA 18015
