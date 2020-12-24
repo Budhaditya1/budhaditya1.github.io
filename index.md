@@ -363,7 +363,7 @@ function carousel() {
 </head>
 </html>
 
-# Letters of Recomendation
+# Classroom Experience
 
 
 
@@ -409,12 +409,20 @@ function carousel() {
   clear: both;
   display: table;
 }
+
+table td, table td * {
+    vertical-align: top;
+}
+table, th, td {
+  border: 1px solid black;
+}
+
 </style>
 </head>
 <body>
 
 <div class="row">
-  <div class="column">
+  <!-- <div class="column">
     <div class="container">
          <a href="./hadenlor.pdf">
          <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Hadenlor.png" style="width:100%" class="image">
@@ -439,7 +447,83 @@ function carousel() {
        </div>
          </a> 
     </div>
-   </div>
+   </div> -->
+   <table style="width:100%">
+  <tr>
+    <th>Lehigh University</th>
+    <th>Hochschule Pforzheim</th> 
+   
+  </tr>
+  <tr>
+    <td>
+    ENGL    001    Crit Reading and Composition<br>
+    ENGL    002    Research and Argument<br>
+GERM   011     Intermediate German I<br>
+GERM   091     Germ Lng&Cult I Abroad<br>
+GERM   191     Germ Lng&Cult II Abroad<br>
+LAT        011     Intermediate Latin<br>
+LAT        012     Intermediate Latin<br>
+ANTH    012     Human Evol. And Prehistory<br>
+ENGR    005     Intro to Engineering Practice<br>
+MATH   021     Calculus I<br>
+PHY        011     Introductory Physics I<br>
+PHY        012     Intro Physics Lab I<br>
+CHM       030     Intro to Chemical Principles<br>
+ECO        001     Principles of Economics<br>
+ENGR     010     Applied Engr Computer Methods<br>
+GERM    012     Intermediate German II<br>
+MATH    022    Calculus II<br>
+ECE         033     Intro to Computer Engineering<br>
+ECE         081     Principles of Electrical Eng.<br>
+MATH    023    Calculus II<br>
+PHY        021     Introductory Physics II<br>
+PHY        022     Intro Physics Lab II<br>
+ECE         121     Electronic Circuits Laboratory<br>
+ECE         123     Electronic Circuits<br>
+ECE         126     Fundmtls Semiconductor Devices<br>
+GERM    298     Death, Mystery, Trauma<br>
+MATH    205     Linear Methods<br>
+PHY        031     Intro to Quantum Mechanics<br>
+ECE         108    Signals and Systems<br>
+MATH    208    Complex Variables<br>
+MATH    231     Probability and Statistics<br>
+ECE         182     Junior Laboratory<br>
+ECE         202     Introduction to Electromagnetics<br>
+GERM    167     German Conversation and Composition<br>
+GERM    250     German Special Topics<br>
+MECH    002     Elementary Engineering Mechanics<br>
+CLSS      022     Roman History<br>
+ECE         125     Circuits and Systems<br>
+ECE         132     Microcontroller Laboratory<br>
+ECE         203     Introduction to Electromagnetic Waves<br>
+GERM    296     Germany in Text, Sound, and Image<br>
+
+
+    </td>
+    <!-- BREAK -->
+    
+    <td>
+    Production Management & Supply Chain Management<br><br>
+    Engineering in Manufacturing:<br>
+<ul>
+<li>Robotics in the Automotive Industry</li>
+<li>Laser Materials Processing in Automotive Production</li>
+<li>Sustainable Mobility in the Automotive Sector</li>
+<li>Automotive ECU Development</li>
+<li>Cyber Physical Systems</li>
+</ul>
+German as a Foreign Language – Advanced <br><br>
+
+
+Transferred to Lehigh as:<br>
+GERM    291    Germ Lng&Cult III Abroad<br>
+ISE          398    Miscellaneous<br>
+ISE          398    Miscellaneous<br>
+    </td>
+    
+  </tr>
+  
+</table>
 </div>
 
 </body>
