@@ -209,94 +209,6 @@ img {vertical-align: middle;}
                </a>
         </div>
       </div>
-<!-- FIVE-->
-        <!-- <div class="container">
-        <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide5.png" style="width:100%">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">View Portfolio</div>
-               </a>
-        </div>
-      </div> -->
-<!-- SIX-->
-        <!-- <div class="container">
-        <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide6.png" style="width:100%">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">View Portfolio</div>
-              </a>
-        </div>
-      </div> -->
-<!-- SEVEN-->
-        <!-- <div class="container">
-        <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide7.png" style="width:100%">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">View Portfolio</div>
-             </a>
-        </div>
-      </div> -->
-<!-- EIGHT-->
-        <!-- <div class="container">
-        <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide8.png" style="width:100%">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">View Portfolio</div>
-            </a>
-        </div>
-      </div> -->
-<!-- NINE-->
-        <!-- <div class="container">
-        <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide9.png" style="width:100%">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">View Portfolio</div>
-            </a>
-        </div>
-      </div> -->
-<!-- TEN-->
-        <!-- <div class="container">
-        <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide10.png" style="width:100%">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">View Portfolio</div>
-            </a>
-        </div>
-      </div> -->
-<!-- ELEVEN-->
-        <!-- <div class="container">
-        <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide11.png" style="width:100%">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">View Portfolio</div>
-            </a>
-        </div>
-      </div> -->
-<!-- TWELVE-->
-        <!-- <div class="container">
-        <a href="./portfolio.pdf">
-            <img class="mySlides w3-animate-fading image" src="https://raw.githubusercontent.com/jfc221/website/master/assets/Slide12.png" style="width:100%">
-        </a>
-          <div class="middle">
-            <a href="./portfolio.pdf">
-             <div class="text">View Portfolio</div>
-            </a>
-      </div>
-    </div> -->
    </div>
   <div class="column">
     <div class="container">
@@ -426,32 +338,6 @@ table, th, td {
 <body>
 
 <div class="row">
-  <!-- <div class="column">
-    <div class="container">
-         <a href="./hadenlor.pdf">
-         <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/Hadenlor.png" style="width:100%" class="image">
-         </a>
-       <a href="./hadenlor.pdf">
-      <div class="content">
-        <h2>Dr. Christina Haden</h2>
-        <p>Affiliation: Metal Additive Manufacturing Research Director, Professor</p>
-       </div>
-      </a>
-    </div>
-  </div>
-    <div class="column">
-      <div class="container">
-           <a href="./decalor.pdf">
-            <img src="https://raw.githubusercontent.com/jfc221/website/master/assets/decalor.png" style="width:100%" class="image">
-          </a>
-        <a href="./decalor.pdf">
-        <div class="content">
-          <h2>Manager Jose Gonzalez</h2>
-          <p>Affiliation: Former Boss at Defense Comissary Agency</p>
-       </div>
-         </a> 
-    </div>
-   </div> -->
    <table style="width:100%">
   <tr>
     <th>Lehigh University</th>
