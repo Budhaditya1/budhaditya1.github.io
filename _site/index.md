@@ -413,8 +413,12 @@ function carousel() {
 table td, table td * {
     vertical-align: top;
 }
+th {
+    color: #b7b7b7;
+}
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid #b7b7b7;
+
 }
 
 </style>
