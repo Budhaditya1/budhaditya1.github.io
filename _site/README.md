@@ -1,3 +1,0 @@
-# Harry’s Engineering Portfolio
-
-
